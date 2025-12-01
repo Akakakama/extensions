@@ -50,18 +50,5 @@
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:Akakakama/extensions",
     "code": "gh:Akakakama/extensions/nyaasi.js"
-  },
-  {
-    "name": "SukebeiNyaaSi",
-    "id": "sukebeinyaasi",
-    "version": "0.0.6",
-    "type": "torrent",
-    "accuracy": "low",
-    "ratio": 0,
-    "media": "sub",
-    "languages": ["US"],
-    "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:Akakakama/extensions",
-    "code": "gh:Akakakama/extensions/sukebeinyaasi.js"
   }
 ]
