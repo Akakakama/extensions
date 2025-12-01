@@ -1,11 +1,8 @@
 import AbstractSource from './abstract.js'
 
-export default new class SukebeiNyaa extends AbstractSource {
-  // API endpoint for JSON results
+export default new class SukebeiNyaaSi extends AbstractSource {
   base = atob('aHR0cHM6Ly9ueWFhLmlzcy5vbmUvc3VrZWJlaT9xPQ==')
-  // decodes to: https://nyaa.iss.one/sukebei?q=
 
-  /** @type {import('./').SearchFunction} */
   async single({ titles, episode }) {
     if (!titles?.length) return []
 
@@ -78,6 +75,7 @@ export default new class SukebeiNyaa extends AbstractSource {
     }
   }
 }()
+
 
 
 
