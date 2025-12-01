@@ -57,7 +57,7 @@
     ],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:Akakakama/Extensions",
-    "code": "gh:Akakakama/Extensions/nyaasi"
+    "code": "gh:Akakakama/Extensions/nyaasi.js"
   },
   {
     "name": "SukebeiNyaaSi",
@@ -72,7 +72,7 @@
     ],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "gh:Akakakama/Extensions",
-    "code": "gh:Akakakama/Extensions/sukebeinyaasi"
+    "code": "gh:Akakakama/Extensions/sukebeinyaasi.js"
   }
 
 ]
