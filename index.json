@@ -12,7 +12,7 @@
     ],
     "icon": "https://releases.moe/favicon.png",
     "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/seadex"
+    "code": "gh:hayase-app/Extensions/seadex.js"
   },
   {
     "name": "AnimeTosho",
@@ -27,7 +27,7 @@
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
     "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho"
+    "code": "gh:hayase-app/Extensions/animetosho.js"
   },
   {
     "name": "AnimeTosho NZB",
@@ -42,7 +42,7 @@
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
     "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho-nzb"
+    "code": "gh:hayase-app/Extensions/animetosho-nzb.js"
   },
   {
     "name": "NyaaSi",
