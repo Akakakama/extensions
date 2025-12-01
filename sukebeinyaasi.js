@@ -2,7 +2,7 @@ import AbstractSource from './abstract.js'
 
 export default new class SukebeiNyaa extends AbstractSource {
   // Change this to match your actual API route
-  base = 'https://torrent-search-api-livid.vercel.app/api/sukebei/'
+  base = 'https://sukebei.nyaa.si/'
 
   /** @type {import('./').SearchFunction} */
   async single({ titles, episode }) {
@@ -76,3 +76,4 @@ export default new class SukebeiNyaa extends AbstractSource {
     }
   }
 }()
+
